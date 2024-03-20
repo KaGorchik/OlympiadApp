@@ -51,3 +51,4 @@ python3 main.py
 4. **PostgreSQL 15.3**, compiled by Visual C++ build 1914, 64-bit
 5. **DBeaver 23.1.0**
 6. **Microsoft Windows 10 Pro** версии 22H2 64-bit
+7. **PyCharm 2022.2 Professional**
